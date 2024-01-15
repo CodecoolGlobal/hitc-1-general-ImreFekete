@@ -52,7 +52,7 @@ Ensure you have the following prerequisites installed on your local machine:
 
 5. **Access the Bastion Hosts:**
 
-    After completion, Terraform will display the public IP addresses of the bastion hosts. Use these addresses for secure access to your private instances.
+    After completion, you can access the bastion host through ssh with the ip address provided by aws.
 
 ## Cleanup
 
