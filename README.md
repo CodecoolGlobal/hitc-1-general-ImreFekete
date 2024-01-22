@@ -26,8 +26,8 @@ Ensure you have the following prerequisites installed on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/terraform-aws-bastion.git
-    cd terraform-aws-bastion
+    git clone https://github.com/CodecoolGlobal/hitc-1-general-ImreFekete.git
+    cd hitc-1-general-ImreFekete
     ```
 
 2. **Initialize Terraform:**
